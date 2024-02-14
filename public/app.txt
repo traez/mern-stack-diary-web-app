@@ -1,0 +1,120 @@
+2.18.00 mins
+------------------------------------------------------------------------
+Things i learnt
+
+MongoDB Compass
+Git still creates branch as master by default, hence Githubs "git branch -m master main" rename command
+consider .env for fetch url in frontend, so route can be changed from localhost to render in 1 click
+------------------------------------------------------------------------
+Google search term
+https://www.youtube.com/results?search_query=deploy+MERN+project+app+&sp=EgQIBRgC
+
+Bookmark for later
+
+
+Build a Diary Web App using the MERN Stack! - Coding Tutorials by Umar Khan
+https://www.youtube.com/watch?v=rl7AVEi5hls
+2.28min with Github. MERN deploy Render (FE and BE)
+
+Full Stack MERN Todo App with MongoDB, React, Express, Node | Responsive + Deployment + Full Notes
+https://www.youtube.com/watch?v=giXuiotopO0
+2.21min MERN deploy Render (FE and BE)
+
+Build and Deploy Full Stack Blog MERN App | React.js (Redux, JWT and more...)
+https://www.youtube.com/watch?v=aiDGDEAqEe0
+3.10min with Github. MERN deploy Render (FE and BE)
+
+MERN Recipe App with Authentication - Build & Deploy A React Intermediate Project
+https://www.youtube.com/watch?v=P43DW3HUUH8&t=40s
+2.23min with Github MERN deployed to paid Hostinger (FE and BE) 
+------------------------------------------------------------------------
+Previous Projects
+
+Building a Node.js app (as a JavaScript noob) 
+https://www.youtube.com/watch?v=wYALykLb5oY
+https://github.com/thecodercoder/dinosaur-generator
+
+How to Create a Express/Node + React Project | Node Backend + React Frontend 
+https://www.youtube.com/watch?v=w3vs4a03y3I
+
+Build a REST API with Node JS and Express | CRUD API Tutorial
+https://www.youtube.com/watch?v=l8WPWK9mS5M
+https://github.com/adrianhajdin/node_express_crud_api
+
+Serve a HTML Website or Single Page Application with Node and Express
+https://www.youtube.com/watch?v=fyc-4YmgLu0
+
+Build a Weather APP in Node JS 
+https://www.youtube.com/watch?v=C1m-pZGwwD4 
+https://github.com/deeppatel23/Weather-app
+
+How to Connect Node.js App to MongoDB
+https://www.youtube.com/watch?v=bhiEJW5poHU 
+
+Build Restful CRUD API with Node.js, Express and MongoDB in 45 minutes for Beginners from Scratch
+https://www.youtube.com/watch?v=9OfL9H6AmhQ (with MongoDB) 46mins
+
+MERN Stack Tutorial - Book Store Project 1.01mins 
+https://www.youtube.com/watch?v=-42K44A1oMA
+
+How to setup and deploy fullstack(MERN) application on Vercel and Render (with Github. Cules Coding)
+https://www.youtube.com/watch?v=ME3tMy5Q2qo
+https://github.com/thatanjan/mern-setup
+https://cules-coding.vercel.app/blog/how-to-setup-and-deploy-a-fullStack(mern)-application-on-vercel-and-render
+------------------------------------------------------------------------
+Timestamps:
+
+INTRODUCTION
+0:00 Introduction
+
+BACKEND - Posts
+3:05 project setup and folder structure
+4:51 MongoDB Atlas & MongoDB Compass setup
+7:42 Node.js backend initialization, install express and mongoose
+9:49 create server.js file
+12:27 install nodemon
+13:41 install dotenv, setup environment variables, and connect to MongoDB
+19:51 create mongoose models for users and diary posts
+23:04 set up and test API routes to get, create, update, and delete posts
+44:45 initialize git repository and push backend to github
+
+FRONTEND - User Interface
+51:00 setup react app frontend and create index.js, App.jsx, Layout.jsx, and NavBar.jsx
+56:13 set up routing in App.jsx with useRoutes hook
+57:46 set up sass for styling with css modules
+1:00:57 create Home page and PostHead component and access backend from frontend
+1:10:40 create DiaryPost page to display individual posts
+1:15:02 create PostForm component to handle user inputs
+1:21:02 implement React Context API to manage global posts state
+
+BACKEND - User authentication logic
+1:32:34 implement user authentication and user routes (install bcrypt, jsonwebtoken, validator)
+1:45:55 create middleware to protect routes that require authentication
+
+FRONTEND - Authenticate users on front end
+1:52:00 create user context to manage global user state
+2:01:26 create Login and Signup pages
+2:08:05 apply authentication context (authContext) to access protected routes
+
+BACKEND/FRONTEND - Associate posts with users
+2:09:54 modify Post model
+2:11:36 edit components to display only those posts created by the logged in user
+2:14:13 use date-fns package to display the date in a more readable format
+
+DEPLOYMENT:
+2:16:01 push all backend code to github
+2:17:04 create frontend repository and push frontend code to github
+2:18:00 deploy application to render
+2:23:30 add a spinner to the Home page and push code to github again
+
+CONCLUSION:
+2:25:35 concluding remarks
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+------------------------------------------------------------------------

@@ -1,0 +1,68 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  utline: 1px solid black;
+}
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  color: hsl(0, 0%, 6%);
+  font-family: 'Trebuchet MS';
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: "Sigmar One", cursive;
+  font-size: 2rem;
+  line-height: 1;
+}
+
+button {
+  background: hsl(354.3, 100%, 37.1%);
+  border: none;
+  color: hsl(0, 0%, 100%);
+  padding: 1rem 2rem;
+  border-radius: 0.5rem;
+  transition: background-color 150ms ease-in-out;
+  cursor: pointer;
+  text-transform: uppercase;
+  margin-bottom: 4rem;
+}
+
+button:hover {
+  background: rgb(163, 0, 16);
+  color: rgb(214, 245, 234);
+}
+
+footer{
+  padding: 0.5rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 2em;
+  font-size: 0.875rem;
+  border: 2px solid gray;
+  background-color: rgb(214, 245, 234);
+}
+a{
+  text-decoration: none;
+  font-weight: bold;
+  color:purple;
+}
+a:hover{
+  text-decoration: underline;
+  color: blue;
+}
+
