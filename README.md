@@ -32,8 +32,8 @@ We'll be using Visual Studio Code, MongoDB Compass, and Postman to help us build
 
 ### Links
 
-- Solution URL: [https://github.com/traez/diary-web-app-mern-stack-fe](https://github.com/traez/diary-web-app-mern-stack-fe)
-- Live Site URL: [https://diary-web-app-mern-stack-fe.onrender.com/](https://diary-web-app-mern-stack-fe.onrender.com/)
+- Solution URL: [https://github.com/traez/mern-stack-diary-web-app](https://github.com/traez/mern-stack-diary-web-app)
+- Live Site URL: [https://mern-stack-diary-web-app.onrender.com/](https://mern-stack-diary-web-app.onrender.com/)
 
 ## My process
 
